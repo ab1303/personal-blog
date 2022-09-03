@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Abdul Wahab',
   author: 'Abdul Wahab',
   headerTitle: 'abdul-wahab',
-  description: 'Senior Software Engineer at WooliesX',
+  description: 'Senior Software Engineer @ WooliesX',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://tech-blog.abdul-wahab.pro',
@@ -10,7 +10,9 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
+  email: 'ab.1303@gmail.com',
   github: 'https://github.com/ab1303',
+  linkedin: 'https://www.linkedin.com/in/abdul-wahab-s-9177823b/',
   locale: 'en-US',
   comment: {
     provider: 'giscus',
