@@ -9,40 +9,40 @@ export type WorkTile = {
 }
 
 export const workTiles: WorkTile[] = [
-  {
-    description: `Here is`,
-    title: `what I've been up to`,
-    image: {
-      src: '/static/images/aphex-apps.png',
-      width: 600,
-      height: 770,
-    },
-  },
-  {
-    description: 'I helped build',
-    title: 'Aphex Field',
-    image: {
-      src: '/static/images/field-app.png',
-      width: 600,
-      height: 554,
-    },
-  },
-  {
-    description: 'I helped maintain',
-    title: 'Aphex Planner',
-    image: {
-      src: '/static/images/planner-app.png',
-      width: 600,
-      height: 717,
-    },
-  },
-  {
-    description: `I'm currently building`,
-    title: 'Aphex Publication',
-    image: {
-      src: '/static/images/publication-app.png',
-      width: 600,
-      height: 717,
-    },
-  },
+  // {
+  //   description: `Here is`,
+  //   title: `what I've been up to`,
+  //   image: {
+  //     src: '/static/images/aphex-apps.png',
+  //     width: 600,
+  //     height: 770,
+  //   },
+  // },
+  // {
+  //   description: 'I helped build',
+  //   title: 'Aphex Field',
+  //   image: {
+  //     src: '/static/images/field-app.png',
+  //     width: 600,
+  //     height: 554,
+  //   },
+  // },
+  // {
+  //   description: 'I helped maintain',
+  //   title: 'Aphex Planner',
+  //   image: {
+  //     src: '/static/images/planner-app.png',
+  //     width: 600,
+  //     height: 717,
+  //   },
+  // },
+  // {
+  //   description: `I'm currently building`,
+  //   title: 'Aphex Publication',
+  //   image: {
+  //     src: '/static/images/publication-app.png',
+  //     width: 600,
+  //     height: 717,
+  //   },
+  // },
 ]

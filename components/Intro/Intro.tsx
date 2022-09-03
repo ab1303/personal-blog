@@ -39,20 +39,20 @@ export default function Intro() {
       <div className="min-h-screen max-w-5xl mx-auto px-10 lg:px-20 py-24 md:py-28 lg:py-3 flex flex-col justify-center items-center text-4xl md:text-6xl lg:text-7xl tracking-tight font-semibold">
         <div className="leading-[1.15]">
           <div className="introText" style={{ opacity: opacityForBlock(progress, 0) }}>
-            I love coding.
+            I love exploring new technologies.
           </div>
           <span
             className="introText inline-block after:content-['_']"
             style={{ opacity: opacityForBlock(progress, 1) }}
           >
-            I use my passion and skills to build digital products and experiences.
+            I use my skills and learnings to solve challenging digital problems.
           </span>
-          <span
+          {/* <span
             className="introText inline-block"
             style={{ opacity: opacityForBlock(progress, 2) }}
           >
             I&apos;m passionate about cutting-edge, pixel perfect UI and intuitively implemented UX.
-          </span>
+          </span> */}
         </div>
       </div>
     </div>
