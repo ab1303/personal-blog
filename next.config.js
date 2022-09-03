@@ -68,6 +68,9 @@ module.exports = withContentlayer(
     },
     experimental: {
       newNextLinkBehavior: true,
+      images: {
+        unoptimized: true,
+      },
     },
     async headers() {
       return [
