@@ -1,4 +1,4 @@
-# dalelarroder.com ⚡️
+# tech-blog.abdul-wahab.pro ⚡️
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Deployment**: [Vercel](https://vercel.com)
@@ -10,19 +10,7 @@
 
 ### Installation
 
-1. Clone this repo
-
-```bash
-git clone git@github.com:dlarroder/dalelarroder.git
-```
-
-2. Change directory
-
-```sh
-cd dalelarroder
-```
-
-3. Install yarn packages
+1. Install yarn packages
 
 ```bash
 yarn
@@ -34,7 +22,7 @@ yarn
 cp .env.example .env.local
 ```
 
-5. Add your environment variables to `.env.local`
+2. Add your environment variables to `.env.local`
 
 ```txt
 SPOTIFY_REFRESH_TOKEN=<Your env>
@@ -43,7 +31,7 @@ SPOTIFY_CLIENT_ID=<Your env>
 // ...
 ```
 
-6. Run the development server
+3. Run the development server
 
 ```bash
 yarn dev
@@ -60,18 +48,6 @@ Don't forget to give the project a star! Thanks again!
 2. Commit your Changes (`git commit -m 'Add some Feature'`)
 3. Push to the Branch (`git push origin main`)
 4. Open a Pull Request
-
-## Lighthouse Score
-
-![Screen Shot 2022-07-04 at 10 52 02 AM](https://user-images.githubusercontent.com/52998821/177234494-f6bc0203-ba71-4f59-8eb7-6375e3784b31.png)
-
-## Previous Version
-
-This is the second version of my website.
-
-Prevoius v1 version:
-
-- https://v1.dalelarroder.com/
 
 ## Licence
 
